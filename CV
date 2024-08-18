@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalyan - CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      width: 800px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    h2 {
+      margin-top: 40px;
+      margin-bottom: 10px;
+      font-size: 1.2em;
+      border-bottom: 2px solid #333;
+      padding-bottom: 5px;
+    }
+    .summary, .education, .experience, .skills, .projects, .certifications {
+      margin-bottom: 20px;
+    }
+    .contact-info {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .contact-info p {
+      margin: 5px 0;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <h1>Kalyan Ghosh</h1>
+    <p>MACHINE LEARNING AND DATA SCIENCE </p>
+  </header>
+
+  <div class="contact-info">
+    <p>Phone: +91- 9933985320</p>
+    <p>Email: kalyanghosh741@gmail.com</p>
+    <p>Karimpur,Nadia, 741152</p>
+  </div>
+
+  <section class="summary">
+    <h2>Summary</h2>
+    <p>Hi,I am Kalyan Ghosh, a pursuing
+      computer science engineer from
+      Adamas University. Currently I am in
+      3rd Year of my study and looking
+      froward to learn much more.
+      I am a sports enthusiast and avid
+      enjoyer of cricket. I have keen interests
+      on topics like data science, machine
+      learning and DSA.</p>
+  </section>
+
+  <section class="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Adamas University</strong> - Bachelor's Degree in Computer Science and Engineering (2022 - 2026)</li>
+      <li><strong>Karimpur Jagannath High School</strong> -  Higher Secondary (2020 - 2022)</li>
+      <li><strong>Darermath High School</strong> -   Secondary (2014 - 2020)</li>
+    </ul>
+  </section>
+
+  <section class="experience">
+    <h2>Work Experience</h2>
+    <ul>
+      <li><strong>Student Member</strong> - Adamas University Sports Club SOET student  co-ordinator (2024 - Present)</li>
+      <li>Currently, I'm focused on MACHINE LEARNING PROJECT .</li>
+    </ul>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Java (OOP)</li>
+      <li>C++ (OOP)</li>
+      <li>DSA IN C++</li>
+      <li>MACHINE LEARNING </li>
+      <li>PYTHON </li>
+
+      <li>Competitive Programming</li>
+    </ul>
+  </section>
+
+
+
+  <section class="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>NPTL C LANGUAGE CERTIFICATE</li>
+      <li>PW Data science certificate </li>
+
+    </ul>
+  </section>
+</div>
+
+</body>
+</html>
